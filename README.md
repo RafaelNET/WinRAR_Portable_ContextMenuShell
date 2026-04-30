@@ -1,5 +1,5 @@
 INTRUÇÕES EM PORTUGUÊS DO BRASIL
-=========================================================================================================================
+<hr />
 1. Faça o download do WinRAR no site oficial: https://www.win-rar.com/download.html?&L=9
    
 2. Abrir o PowerShell, e executar o comando abaixo, alterando o caminho e nome do arquivo:
@@ -14,10 +14,10 @@ INTRUÇÕES EM PORTUGUÊS DO BRASIL
 5. Salve e execute para adicionar no Registro do Windows
 
 6. Pronto
-=========================================================================================================================
+<hr />
 
 INSTRUCTIONS IN ENGLISH
-=========================================================================================================================
+<hr />
 1. Download WinRAR from the official website: https://www.win-rar.com/download.html?&L=9
 
 2. Open PowerShell and run the command below, changing the path and filename:
@@ -35,4 +35,4 @@ INSTRUCTIONS IN ENGLISH
 5. Save and run to add it to the Registry. Windows
 
 6. Ready
-=========================================================================================================================
+<hr />
