@@ -6,7 +6,7 @@ INTRUÇÕES EM PORTUGUÊS DO BRASIL
    => $env:__COMPAT_LAYER = "RunAsInvoker"; Start-Process "C:\Folder\winrar-x64-721br.exe"
    
 3. Será aberto o processo de instalação, altere a pasta para %LocalAppData%
-   <img width="751" height="682" alt="image" src="https://github.com/user-attachments/assets/ba1b606f-b9bf-4cce-827f-9cd2c52e9197" />
+   <img width="751" height="682" alt="image" style="width: 50%; height: auto;" src="https://github.com/user-attachments/assets/ba1b606f-b9bf-4cce-827f-9cd2c52e9197" />
 
 4. Faça o download do arquivo "RegisterWinRAR_Shell.reg" deste repositório, abra no Notepad e altere "USERNAME" pelo nome de usuário da sua conta do windows
    (Se tiver dúvida qual é, pressione WINDOWS+R e execute o comando %LocalAppData% e veja o nome que aparece após C:\Users\**[SEU NOME DE USUÁRIO AQUI]**\AppData\Local
@@ -26,7 +26,7 @@ INSTRUCTIONS IN ENGLISH
 
 3. The installation process will open; change the folder to %LocalAppData%
 
-<img width="751" height="682" alt="image" src="https://github.com/user-attachments/assets/ba1b606f-b9bf-4cce-827f-9cd2c52e9197" />
+<img width="751" height="682" alt="image" style="width: 50%; height: auto;" src="https://github.com/user-attachments/assets/ba1b606f-b9bf-4cce-827f-9cd2c52e9197" />
 
 4. Download the "RegisterWinRAR_Shell.reg" file from this repository, open it in Notepad, and change "USERNAME" to your Windows account username.
 
